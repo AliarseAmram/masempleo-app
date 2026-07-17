@@ -1,24 +1,4 @@
-import streamlit as st
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-import plotly.express as px
-import plotly.graph_objects as go
-from sklearn.preprocessing import StandardScaler
-from sklearn.cluster import KMeans
-from sklearn.decomposition import PCA
-import pickle
-import geopandas as gpd
-import folium
-from branca.element import Template, MacroElement
-import io
-import os
-import Modulo_3 as m3
-import streamlit as st
-from PIL import Image
-import base64
-from scipy import stats
+
 
 
 
